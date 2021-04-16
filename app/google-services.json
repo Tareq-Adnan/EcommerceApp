@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041551251641",
+    "project_id": "ecommerce-app-bc541",
+    "storage_bucket": "ecommerce-app-bc541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041551251641:android:0afe67c65d6380ee64e368",
+        "android_client_info": {
+          "package_name": "com.eco.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041551251641-6j77t4rasmjj5j22sc002ongb0r03prf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuz-0vnXA9ovUACLfi21SW1CaFlVt4tdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041551251641-6j77t4rasmjj5j22sc002ongb0r03prf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
